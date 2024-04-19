@@ -19,4 +19,4 @@ With AUSTINTEL, you have the power to explore, analyze, and visualize Austin's h
 
 Experience the future of real estate analytics with AUSTINTEL. Start your journey today!
 
-# Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiZjNkODc4YTMtYzM3ZC00MTQwLWExZWQtNmMyN2U4ZTgyNjMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+# [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZjNkODc4YTMtYzM3ZC00MTQwLWExZWQtNmMyN2U4ZTgyNjMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
